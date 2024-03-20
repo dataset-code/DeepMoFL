@@ -1,0 +1,1 @@
+{"neuron_counts": [10752, 512, 1], "neuron_counts_selected": [100, 100, 1], "layer_tarantula_score": [1.0, NaN, NaN], "layer_ochiai_score": [0.6736887755010437, NaN, NaN], "layer_D_star_score": [1208.0769820366447, NaN, NaN], "layer_Op2_score": [1452.4266, NaN, NaN], "layer_Barinel_score": [1.0, NaN, NaN], "time": 40.15422463417053}

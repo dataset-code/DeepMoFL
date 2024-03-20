@@ -1,0 +1,22 @@
+Mutation generation took 28.145286083221436 seconds
+Test case splitting took 0.2505955696105957 seconds
+Mutation execution took 244.88258290290833 seconds
+deepmufl generated 921 mutants out of which 0 turned out to be non-viable
+Metallaxis - Type 1:
+	SBI Avg: {'L0': 0.0, 'L1': 0.0, 'L2': 0.2551169590643275}
+	SBI Max: {'L0': 0, 'L1': 0, 'L2': 0.8333333333333334}
+
+	Ochiai Avg: {'L0': 0.0, 'L1': 0.0, 'L2': 0.2670416802873625}
+	Ochiai Max: {'L0': 0, 'L1': 0, 'L2': 0.9128709291752769}
+--------------------
+Metallaxis - Type 2:
+	SBI Avg: {'L0': 0.0, 'L1': 0.0, 'L2': 0.0}
+	SBI Max: {'L0': 0, 'L1': 0, 'L2': 0}
+
+	Ochiai Avg: {'L0': 0.0, 'L1': 0.0, 'L2': 0.0}
+	Ochiai Max: {'L0': 0, 'L1': 0, 'L2': 0}
+
+====================
+
+MUSE:
+	{'L0': 0.0, 'L1': 0.0, 'L2': 0.18947368421052632}

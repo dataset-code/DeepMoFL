@@ -1,0 +1,407 @@
+id,res,time,msg,,
+74669249,0,2.662797689,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+
+Layer 1 ==> Batchnorm layer should be before the dropout.
+
+Layer 3 ==> Batchnorm layer should be before the dropout.
+
+Layer 5 ==> Batchnorm layer should be before the dropout.",,
+74200607,0,2.444930077,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+73567385,0,0.177592993,"
+Error: input file is not valid or not match with selected parser type",,
+73308371,0,2.496472359,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid).",,
+73275569,0,2.732789993,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation).
+
+Layer 1 ==> The number of feature maps should be gradually expanded while the feature map area is retracted.
+
+Layer 4 ==> The number of feature maps should be gradually expanded while the feature map area is retracted.",,
+72965428,0,2.540700912,"
+Architecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+
+Layer 1 ==> Activations for learning layers (i.e., convolution and fully-connected layer) should be a non-linear function.
+
+Layer 4 ==> Multiple and redundant connected activations are not allowed.",,
+72802464,0,2.454277039,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation).",,
+72744278,0,2.619077682,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation).",,
+72676542,1,2.674985886,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activationArchitecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+
+Layer 1 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+
+Layer 5 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+
+Layer 9 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+
+Layer 13 ==> A learning layer should no longer include a bias when it is followed by batchnorm.",,
+71715697,0,3.008030176,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation).
+
+Layer 1 ==> Deep CNN should not apply pooling after every convolution.
+
+Layer 4 ==> Deep CNN should not apply pooling after every convolution.
+
+Layer 7 ==> Deep CNN should not apply pooling after every convolution.
+
+Layer 10 ==> Deep CNN should not apply pooling after every convolution.",,
+70650848,0,2.551759005,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+
+Layer 1 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+
+Layer 5 ==> A learning layer should no longer include a bias when it is followed by batchnorm.",,
+70589997,0,2.543722868,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+
+Layer 1 ==> The local window size for spatial filtering should generally increase or stay the same throughout the convolutional layers.
+
+Layer 4 ==> The local window size for spatial filtering should generally increase or stay the same throughout the convolutional layers.",,
+70148149,1,2.459459782,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activationArchitecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+
+Layer 1 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten ).",,
+69901379,0,2.603509903,"
+There is no identified fault in the DNN script",,
+69787272,0,2.338168383,"
+There is no identified fault in the DNN script",,
+68938619,0,0.175442219,"
+Error: input file is not valid or not match with selected parser type",,
+68751439,0,0.177353382,"
+Error: input file is not valid or not match with selected parser type",,
+68458462,1,2.414042234,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 3 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+68321264,0,0.17972517,"
+Error: input file is not valid or not match with selected parser type",,
+68101077,0,2.384658813,"
+There is no identified fault in the DNN script",,
+67529687,0,3.032202721,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activationArchitecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+
+Layer 24 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 26 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+66840108,0,2.32378006,"
+There is no identified fault in the DNN script",,
+66602662,0,2.470199108,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+66407123,0,2.454114914,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+66235657,0,2.588487864,"
+There is no identified fault in the DNN script",,
+66087653,1,2.562299013,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+65777704,1,2.594794035,"
+Layer 2 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 4 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 6 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 8 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+65669308,0,0.166067839,"
+Error: input file is not valid or not match with selected parser type",,
+64413907,0,0.1781497,"
+Error: input file is not valid or not match with selected parser type",,
+64395424,1,2.154028893,"
+Layer 2 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 4 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 6 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 8 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+64387251,0,0.18921423,"
+Error: input file is not valid or not match with selected parser type",,
+64237179,0,0.174132109,"
+Error: input file is not valid or not match with selected parser type",,
+63212385,0,0.176741362,"
+Error: input file is not valid or not match with selected parser type",,
+62957334,0,0.178332329,"
+Error: input file is not valid or not match with selected parser type",,
+62440336,0,2.551627874,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activationArchitecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+
+Layer 1 ==> The local window size for spatial filtering should generally increase or stay the same throughout the convolutional layers.
+
+Layer 3 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten ).",,
+62313327,0,2.503024578,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+62068109,0,2.637393475,"
+There is no identified fault in the DNN script",,
+62055783,0,2.733313084,"
+Architecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+
+Layer 3 ==> The number of feature maps should be gradually expanded while the feature map area is retracted.",,
+61997645,1,2.443343163,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+61886777,0,2.522269964,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+
+Layer 1 ==> A learning layer should no longer include a bias when it is followed by batchnorm.",,
+61763616,0,2.757072687,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activationArchitecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+
+Layer 1 ==> Activations for learning layers (i.e., convolution and fully-connected layer) should be a non-linear function.
+
+Layer 3 ==> Activations for learning layers (i.e., convolution and fully-connected layer) should be a non-linear function., The number of feature maps should be gradually expanded while the feature map area is retracted.
+
+Layer 5 ==> Activations for learning layers (i.e., convolution and fully-connected layer) should be a non-linear function.",,
+61498304,1,2.759346962,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation).",,
+61274792,0,2.413020611,"
+There is no identified fault in the DNN script",,
+61234347,0,0.197508335,"
+Error: input file is not valid or not match with selected parser type",,
+60874661,0,2.653721809,"
+There is no identified fault in the DNN script",,
+60831731,0,2.441233635,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+60801900,1,2.541646481,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+
+Layer 3 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 5 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 7 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+60766775,0,0.171467066,"
+Error: input file is not valid or not match with selected parser type",,
+60574843,1,2.047817945,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+
+Layer 3 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 5 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 7 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+60508218,0,2.524863958,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+60355380,1,2.760209799,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+59758722,0,2.420614004,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+59278771,0,2.432353973,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+59078187,0,2.376255035,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+58844149,1,2.617785692,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+
+Layer 1 ==> The local window size for spatial filtering should generally increase or stay the same throughout the convolutional layers.",,
+58609115,0,2.451864958,"
+There is no identified fault in the DNN script",,
+58572274,1,2.451965332,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+58392266,0,0.16920495,"
+Error: input file is not valid or not match with selected parser type",,
+58333926,0,2.418020248,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+58064701,0,2.488363504,"
+There is no identified fault in the DNN script",,
+58055105,1,2.472353458,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+58051767,0,2.436204433,"
+There is no identified fault in the DNN script",,
+58043002,1,2.551231861,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation).Architecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+
+Layer 1 ==> The local window size for spatial filtering should generally increase or stay the same throughout the convolutional layers.
+
+Layer 3 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten ).
+
+Layer 4 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten ).",,
+57943425,0,2.967692137,"
+Layer 1 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+
+Layer 6 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+
+Layer 9 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+
+Layer 14 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+
+Layer 17 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+
+Layer 20 ==> A learning layer should no longer include a bias when it is followed by batchnorm.
+
+Layer 26 ==> A learning layer should no longer include a bias when it is followed by batchnorm.",,
+57516678,0,0.169303656,"
+Error: input file is not valid or not match with selected parser type",,
+57407973,1,2.564384222,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid).
+
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 3 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+57397440,1,2.497563362,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+
+Layer 1 ==> A learning layer should no longer include a bias when it is followed by batchnorm., The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 4 ==> A learning layer should no longer include a bias when it is followed by batchnorm.",,
+57326611,0,0.187465906,"
+Error: input file is not valid or not match with selected parser type",,
+56774954,0,0.201022387,"
+Error: input file is not valid or not match with selected parser type",,
+56452176,0,2.374380112,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+56218256,0,0.173426628,"
+Error: input file is not valid or not match with selected parser type",,
+55198221,0,2.566734791,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+54811239,0,2.452358961,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+54738769,0,2.547029734,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 3 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+54282951,1,2.616655827,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid).Architecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+
+Layer 1 ==> Activations for learning layers (i.e., convolution and fully-connected layer) should be a non-linear function.
+
+Layer 3 ==> Activations for learning layers (i.e., convolution and fully-connected layer) should be a non-linear function.",,
+54064299,1,2.499333858,"
+Layer 1 ==> The number of feature maps should be gradually expanded while the feature map area is retracted.
+
+Layer 4 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten ).
+
+Layer 6 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten ).",,
+53749895,0,2.386523724,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+53700537,1,2.535630465,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activationArchitecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+
+Layer 1 ==> The local window size for spatial filtering should generally increase or stay the same throughout the convolutional layers.
+
+Layer 6 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten ).
+
+Layer 7 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten ).",,
+52983831,0,2.224627256,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activationArchitecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).
+
+Layer 1 ==> The local window size for spatial filtering should generally increase or stay the same throughout the convolutional layers.
+
+Layer 6 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten ).
+
+Layer 7 ==> A processing layer that operates on a N-dimensional tensors, should receive a valid input tensor with exactly N-dimensional shape(missing flatten ).",,
+52566823,0,2.553733349,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+51930566,0,0.17269969,"
+Error: input file is not valid or not match with selected parser type",,
+51901386,0,2.935436726,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activationArchitecture ==> Max-pooling is the preferred down-sampling strategy(lack of pooling).",,
+51749207,0,0.196543217,"
+Error: input file is not valid or not match with selected parser type",,
+51581521,0,0.164983273,"
+Error: input file is not valid or not match with selected parser type",,
+51185079,1,2.546921968,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+50914860,0,2.570373535,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+50555434,0,2.413769722,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+50338865,0,2.147634029,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+50079585,0,2.599286795,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+49583466,0,0.177276134,"
+Error: input file is not valid or not match with selected parser type",,
+48976413,0,2.93884325,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+48486598,1,2.391536713,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+48385830,0,0.169400215,"
+Error: input file is not valid or not match with selected parser type",,
+48251943,0,2.425735474,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+48221692,0,0.179608583,"
+Error: input file is not valid or not match with selected parser type",,
+47735201,0,0.177333593,"
+Error: input file is not valid or not match with selected parser type",,
+47704695,0,0.180539608,"
+Error: input file is not valid or not match with selected parser type",,
+47352366,0,0.167566299,"
+Error: input file is not valid or not match with selected parser type",,
+47241622,0,2.053988218,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+46995209,1,2.870367765,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+46869312,0,0.173880816,"
+Error: input file is not valid or not match with selected parser type",,
+46642627,0,2.464712143,"
+There is no identified fault in the DNN script",,
+46247619,0,1.904707193,"
+There is no identified fault in the DNN script",,
+45378493,1,2.514305115,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+
+Layer 3 ==> Batchnorm layer should be before the dropout.
+
+Layer 8 ==> A learning layer should no longer include a bias when it is followed by batchnorm.",,
+45337371,1,2.608472109,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+44758894,0,2.552253723,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+
+Layer 1 ==> Multiple and redundant connected activations are not allowed.",,
+44755431,0,2.853463411,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation).",,
+44066044,1,2.521772623,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+43055289,0,2.195508003,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+42800203,1,2.11667943,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+42514960,1,2.41693306,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+
+Layer 5 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+42472447,0,2.479866743,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 3 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+41999686,0,2.687984943,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation
+
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.
+
+Layer 4 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+41823068,0,2.425438404,"
+Learner ==> The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+41600519,0,2.62263608,"
+There is no identified fault in the DNN script",,
+41596619,0,2.387397528,"
+There is no identified fault in the DNN script",,
+34673164,1,2.43304348,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+34311586,1,2.512500048,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation
+
+Layer 1 ==> The area of feature maps and the width of fully-connected units should be progressively decreasing over the layers.",,
+33969059,0,2.575976372,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-pre-activation",,
+31880720,1,2.837906837,"
+Learner ==> A last layer activation is required to transform the logits into probabilities for classification problem(bin missing sigmoid)., A last layer activation is required to transform the logits into probabilities for classification problem(bin wrong last layer activation)., The loss should be correctly defined and connected to the layer in accordance with its input conditions (i.e.shape and type)-post_activation",,
+31627380,0,0.195860147,"
+Error: input file is not valid or not match with selected parser type",,

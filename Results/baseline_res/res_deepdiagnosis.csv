@@ -1,0 +1,122 @@
+id,time,msg,res
+74669249,171.0703576,no report,0
+74200607,,crash,0
+73567385,,crash,0
+73308371,3.66569376,no report,0
+73275569,273.6431777,no report,0
+72965428,,crash,0
+72802464,,crash,0
+72744278,7.472336054,no report,0
+72676542,48.35101438,no report,0
+71715697,259.9503169,"	Batch 40 layer 11: Vanishing Gradient Problem in delta Weights, terminating training		 --- 259.8520269393921 seconds ---		 Add/delete layer or change sigmoid activation function 	",1
+70650848,,crash,0
+70589997,,crash,0
+70148149,7.386930466,"	Batch 0 layer 6: Numerical Error in delta Weights, terminating training		 --- 7.248884201049805 seconds ---	",1
+69901379,,crash,0
+69787272,0.674224615,"	 Batch 0 layer 2: Numerical Problem Forward, terminating training 		 --- 0.621394157409668 seconds ---		 Normalize the data 	",1
+68938619,2.841528177,"	Batch 0 layer 1: Numerical Error in delta Weights, terminating training		 --- 2.7478926181793213 seconds ---	",1
+68751439,,crash,0
+68458462,3.87399292,"	Batch 19: Accurcy Not Increasing, terminating training		 --- 3.815232992172241 seconds ---		 Normalize the data 	",0
+68321264,6.41894412,"	Batch 0 layer 6: Numerical Error in delta Weights, terminating training		 --- 6.368808031082153 seconds ---	",1
+68101077,5.444186449,"	Batch 0 layer 2: Vanishing Gradient Problem in delta Weights, terminating training		 --- 5.377039194107056 seconds ---		 Learning Rate 	",1
+67529687,37.17591047,"	Batch 1 layer 18: Vanishing Gradient Problem in delta Weights, terminating training		 --- 37.02775192260742 seconds ---		 Add/delete layer or change sigmoid activation function 	",0
+66840108,0.700101376,"	Batch 0: Invalid accuracy, terminating training		 --- 0.639840841293335 seconds ---	 	 Please change the activation function at layer : 2 	",1
+66602662,,crash,0
+66407123,0.744080305,"	Batch 0 layer 2: Numerical Error in delta Weights, terminating training		 --- 0.6994502544403076 seconds ---	",1
+66235657,118.3567522,no report,0
+66087653,,crash,0
+65777704,2.285429478,"	Batch 0 layer 1: Vanishing Gradient Problem in delta Weights, terminating training		 --- 2.244300365447998 seconds ---		 Learning Rate 	",1
+65669308,,crash,0
+64413907,2.819923401,"	 Batch 0 layer 1: Numerical Problem Forward, terminating training 		 --- 2.7670297622680664 seconds ---		 Normalize the data 	",0
+64395424,0.689459562,"	 Batch 0 layer 0: Numerical Problem Forward, terminating training 		 --- 0.6489856243133545 seconds ---		Learning Rate 	",0
+64387251,14.37044811,"	Batch 4 layer 0: Unchange Tensor in forward, terminating training		 --- 12.22583794593811 seconds ---	 	 Learning Rate 	",0
+64237179,1088.337282,"	Batch 0 layer 27: Numerical Error in delta Weights, terminating training		 --- 1087.4364926815033 seconds ---		 Please change the activaton function at layer: 28 	",1
+63212385,,crash,0
+62957334,6.939199448,"	 Batch 0 layer 7: Numerical Problem Forward, terminating training 		 --- 6.856816053390503 seconds ---		 Normalize the data 	",0
+62440336,10.88956928,"	Batch 0: Invalid accuracy, terminating training		 --- 10.815932035446167 seconds ---	 	 Please change the activation function at layer : 5 	",1
+62313327,10.75555801,no report,0
+62068109,17.3855207,no report,0
+62055783,134.661171,"	Batch 33 layer 10: Numerical Error in delta Weights, terminating training		 --- 134.56501936912537 seconds ---	",1
+61997645,3.603375435,"	Batch 0 layer 4: Numerical Error in delta Weights, terminating training		 --- 3.5493311882019043 seconds ---	",1
+61886777,6.965332508,no report,0
+61763616,,crash,0
+61498304,5.283446312,"	Batch 3 layer 13: Numerical Error in delta Weights, terminating training		 --- 5.205521821975708 seconds ---	",1
+61274792,,crash,0
+61234347,1.238080263,no report,0
+60874661,14.45105267,"	Batch 0 layer 14:  Out of Rang Problem, terminating training		 --- 14.393624067306519 seconds ---	 	 change the activation function to softmax 	",1
+60831731,3.134903669,no report,0
+60801900,13.34778881,no report,0
+60766775,1.868174791,"	Batch 0 layer 4: Vanishing Gradient Problem in delta Weights, terminating training		 --- 1.8167181015014648 seconds ---		 Learning Rate 	",0
+60574843,179.4927554,no report,0
+60508218,497.7747216,no report,0
+60355380,2.079132795,"	Batch 0 layer 13: Numerical Error in delta Weights, terminating training		 --- 1.9995677471160889 seconds ---	",1
+59758722,2.812558413,no report,0
+59278771,0.510204554,no report,0
+59078187,,crash,0
+58844149,27.72922826,"	Batch 0: Invalid accuracy, terminating training		 --- 27.430158615112305 seconds ---	 	 Please change the activation function at layer : 9 	",1
+58609115,3.697431803,"	Batch 0 layer 2: Numerical Error in delta Weights, terminating training		 --- 3.6406455039978027 seconds ---	",1
+58572274,2.749866962,no report,0
+58392266,,crash,0
+58333926,940.7809401,no report,0
+58064701,6.528842211,no report,0
+58055105,1.423125029,"	Batch 0 layer 2: Numerical Error in delta Weights, terminating training		 --- 1.3218109607696533 seconds ---	",1
+58051767,1.903847933,"	Batch 0: Invalid accuracy, terminating training		 --- 1.4883551597595215 seconds ---	 	 Please change the activation function at layer : 2 	",1
+58043002,18.45417953,"	Batch 4 layer 5: Unchange Tensor  in Weights, terminating training		 --- 18.347309112548828 seconds ---	 	 Learning Rate 	",0
+57943425,,crash,0
+57516678,,crash,0
+57407973,54.42683911,no report,0
+57397440,5.53545785,"	Batch 0 layer 4: Numerical Error in delta Weights, terminating training		 --- 5.4042744636535645 seconds ---	",1
+57326611,,crash,0
+56774954,1.818587542,"	Batch 4 layer 0: Unchange Tensor in forward, terminating training		 --- 1.7195098400115967 seconds ---	 	 Learning Rate 	",0
+56452176,0.552949905,"	 Batch 0 layer 2: Numerical Problem Forward, terminating training 		 --- 0.49906086921691895 seconds ---		 Normalize the data 	",1
+56218256,,crash,0
+55198221,39.04637337,no report,0
+54811239,7.176670551,no report,0
+54738769,1.044335604,"	Batch 0 layer 6: Numerical Error in delta Weights, terminating training		 --- 0.9573535919189453 seconds ---	",1
+54282951,63.7146666,"	Batch 0 layer 4:  Out of Rang Problem, terminating training		 --- 63.48596549034119 seconds ---	 	 change the activation function to softmax 	",1
+54064299,80.85803127,"	 Batch 5 layer 2: Numerical Problem Forward, terminating training 		 --- 80.71096014976501 seconds ---		 Normalize the data 	",0
+53749895,5.92386961,"	Batch 2 layer 2: Numerical Error in delta Weights, terminating training		 --- 5.8671674728393555 seconds ---	",1
+53700537,1.312120199,"	Batch 0 layer 6: Numerical Error in delta Weights, terminating training		 --- 1.2229833602905273 seconds ---	",1
+52983831,3.630503416,"	Batch 0 layer 2: Numerical Error in delta Weights, terminating training		 --- 3.530324935913086 seconds ---	",1
+52566823,22.91710448,no report,0
+51930566,12.75097632,no report,0
+51901386,197.9095132,no report,0
+51749207,1.51006794,"	Batch 0 layer 5: Numerical Error in delta Weights, terminating training		 --- 1.4211490154266357 seconds ---	",1
+51581521,,crash,0
+51185079,1.456922054,no report,0
+50914860,13.52905512,"	Batch 0 layer 6: Numerical Error in delta Weights, terminating training		 --- 13.356487035751343 seconds ---	",1
+50555434,5.347361803,no report,0
+50338865,21.54090023,"	Batch 9 layer 2: Numerical Error in delta Weights, terminating training		 --- 21.42079472541809 seconds ---	",1
+50079585,,crash,0
+49583466,3.637362957,no report,0
+48976413,0.792761803,"	Batch 0: Invalid accuracy, terminating training		 --- 0.7173168659210205 seconds ---	 	 Please change the activation function at layer : 2 	",1
+48486598,,crash,0
+48385830,,crash,0
+48251943,132.3900568,no report,0
+48221692,0.430415392,"	Batch 0: Invalid accuracy, terminating training		 --- 0.3401613235473633 seconds ---	 	 Please change the activation function at layer : 1 	",1
+47735201,79.9371109,"	Batch 4 layer 0: Unchange Tensor in forward, terminating training		 --- 79.7078857421875 seconds ---	 	 Learning Rate 	",0
+47704695,10.6433754,"	Batch 0 layer 22: Numerical Error in delta Weights, terminating training		 --- 10.47477412223816 seconds ---	",1
+47352366,211.3586571,"	Batch 0 layer 9:  Out of Rang Problem, terminating training		 --- 211.2423014640808 seconds ---	 	 change the activation function to softmax 	",1
+47241622,44.64395809,"	Batch 0 layer 1: Numerical Error in delta Weights, terminating training		 --- 44.5638689994812 seconds ---	",1
+46995209,,crash,0
+46869312,1.249418736,"	Batch 0: Invalid accuracy, terminating training		 --- 1.1910185813903809 seconds ---	 	 Please change the activation function at layer : 2 	",1
+46642627,,crash,0
+46247619,,crash,0
+45378493,3.36099124,"	Batch 0 layer 12: Numerical Error in delta Weights, terminating training		 --- 3.2574572563171387 seconds ---	",1
+45337371,0.819824457,"	Batch 0 layer 2: Numerical Error in delta Weights, terminating training		 --- 0.7356696128845215 seconds ---	",1
+44758894,1.353816748,no report,0
+44755431,103.4117563,no report,0
+44066044,43.00952792,no report,0
+43055289,4.386551619,no report,0
+42800203,,crash,0
+42514960,0.983604193,"	 Batch 0 layer 4: Numerical Problem Forward, terminating training 		 --- 0.9090173244476318 seconds ---		Learning Rate 	",1
+42472447,12.26801538,no report,0
+41999686,4.592773199,no report,0
+41823068,18.61452293,no report,0
+41600519,64.62911868,no report,0
+41596619,0.484161377,"	Batch 0: Invalid accuracy, terminating training		 --- 0.4100322723388672 seconds ---	 	 Please change the activation function at layer : 1 	",1
+34673164,8.236189842,no report,0
+34311586,0.478179693,"	Batch 0 layer 2: Numerical Error in delta Weights, terminating training		 --- 0.407667875289917 seconds ---	",1
+33969059,2.867497206,"	Batch 0: Invalid accuracy, terminating training		 --- 2.786243438720703 seconds ---	 	 Please change the activation function at layer : 4 	",1
+31880720,1.660734892,"	Batch 0 layer 6: Numerical Error in delta Weights, terminating training		 --- 1.5827443599700928 seconds ---		 Please change the loss function 	 OR Please change the activaton function at layer: 7 	",0
+31627380,,crash,0

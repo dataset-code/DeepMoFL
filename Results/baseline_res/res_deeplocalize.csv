@@ -1,0 +1,122 @@
+id,time,msg,res
+74669249,109.6301661,"Batch 4 layer 11: Error in forward, terminating training",1
+74200607,39022.35977,no report,0
+73567385,,crash,0
+73308371,35.87485051,no report,0
+73275569,,grads,0
+72965428,,crash,0
+72802464,,crash,0
+72744278,,grads,0
+72676542,17069.9851,no report,0
+71715697,,grads,0
+70650848,,crash,0
+70589997,,crash,0
+70148149,7.277032137,"Batch 0 layer 6: Error in delta Weights, terminating training",1
+69901379,,crash,0
+69787272,0.411656618,"Batch 0 layer 2: Error in forward, terminating training",1
+68938619,2.580991268,"Batch 0 layer 1: Error in delta Weights, terminating training",1
+68751439,,crash,0
+68458462,71.01800299,no report,0
+68321264,0.993835926,"Batch 0 layer 6: Error in delta Weights, terminating training",1
+68101077,87.06910467,"Batch 104: MDL, terminating training",0
+67529687,,grads,0
+66840108,,grads,0
+66602662,,crash,0
+66407123,0.676619053,"Batch 0 layer 2: Error in delta Weights, terminating training",1
+66235657,,grads,0
+66087653,,crash,0
+65777704,,grads,0
+65669308,0.838838577,"Batch 0 layer 3: Error in delta Weights, terminating training",1
+64413907,1.424365044,"Batch 0 layer 1: Error in forward, terminating training",0
+64395424,0.589188337,"Batch 0 layer 0: Error in forward, terminating training",0
+64387251,13.47257185,"Batch 0 layer 0: Error in forward, terminating training",0
+64237179,328.5772369,"Batch 0 layer 27: Error in delta Weights, terminating training",1
+63212385,,crash,0
+62957334,3.696641684,"Batch 0 layer 7: Error in forward, terminating training",0
+62440336,11.7539537,"Batch 0 layer 5: Error in delta Weights, terminating training",1
+62313327,8.021229267,no report,0
+62068109,,grads,0
+62055783,38627.59212,no report,0
+61997645,4.867560625,"Batch 0 layer 4: Error in delta Weights, terminating training",1
+61886777,789.4336295,no report,0
+61763616,,crash,0
+61498304,,grads,0
+61274792,,grads,0
+61234347,,grads,0
+60874661,,grads,0
+60831731,96.01208758,no report,0
+60801900,7913.7697,no report,0
+60766775,8.000782013,"Batch 4 layer 6: Error in forward, terminating training",1
+60574843,264732,no report,0
+60508218,,grads,0
+60355380,1.652179956,"Batch 0 layer 13: Error in delta Weights, terminating training",1
+59758722,42.21508646,no report,0
+59278771,2.35702014,no report,0
+59078187,,crash,0
+58844149,17.73144746,"Batch 0 layer 9: Error in delta Weights, terminating training",1
+58609115,3.010851622,"Batch 0 layer 2: Error in delta Weights, terminating training",1
+58572274,7.077023983,no report,0
+58392266,,crash,0
+58333926,,grads,0
+58064701,,grads,0
+58055105,0.695831776,"Batch 0 layer 2: Error in delta Weights, terminating training",1
+58051767,,grads,0
+58043002,,grads,0
+57943425,,crash,0
+57516678,,crash,0
+57407973,49726.49642,no report,0
+57397440,1.539953947,"Batch 0 layer 4: Error in delta Weights, terminating training",1
+57326611,,crash,0
+56774954,2.830432892,"Batch 4 layer 3: Error in forward, terminating training",1
+56452176,4.264349699,no report,0
+56218256,,crash,0
+55198221,22884.72871,no report,0
+54811239,13.07756734,no report,0
+54738769,1.582832098,"Batch 0 layer 6: Error in delta Weights, terminating training",1
+54282951,39.62720752,"Batch 0 layer 4: Error in delta Weights, terminating training",1
+54064299,54113.33813,"Batch 439 layer 4: Error in Weights, terminating training",0
+53749895,6.104007006,"Batch 4 layer 2: Error in forward, terminating training",1
+53700537,0.796484232,"Batch 0 layer 0: Error in forward, terminating training",0
+52983831,3.107704639,"Batch 0 layer 2: Error in delta Weights, terminating training",1
+52566823,12535.4803,no report,0
+51930566,2310.776581,no report,0
+51901386,1146.48809,no report,0
+51749207,1.555772066,"Batch 0 layer 5: Error in delta Weights, terminating training",1
+51581521,,crash,0
+51185079,15.7129097,no report,0
+50914860,23.65817904,"Batch 1 layer 6: Error in delta Weights, terminating training",1
+50555434,1114.748244,no report,0
+50338865,3.438362837,"Batch 0 layer 2: Error in delta Weights, terminating training",1
+50079585,,crash,0
+49583466,12535.61016,no report,0
+48976413,16198.33693,no report,0
+48486598,,crash,0
+48385830,,crash,0
+48251943,1422.199734,no report,0
+48221692,387.9318242,"Batch 0: MDL, terminating training",0
+47735201,,grads,0
+47704695,4.438293934,"Batch 0 layer 22: Error in delta Weights, terminating training",1
+47352366,5523.210488,"Batch 7 layer 1: Error in forward, terminating training",0
+47241622,3.307271481,"Batch 0 layer 1: Error in delta Weights, terminating training",1
+46995209,,crash,0
+46869312,,grads,0
+46642627,,crash,0
+46247619,3917.383345,"Batch 0: MDL, terminating training",0
+45378493,3.997188807,"Batch 0 layer 12: Error in delta Weights, terminating training",1
+45337371,0.91914773,"Batch 0 layer 2: Error in delta Weights, terminating training",1
+44758894,167.3615615,no report,0
+44755431,,grads,0
+44066044,4.21475935,"Batch 0 layer 2: Error in forward, terminating training",1
+43055289,,grads,0
+42800203,1.479814768,"Batch 0 layer 2: Error in delta Weights, terminating training",1
+42514960,4.449339628,"Batch 0 layer 4: Error in forward, terminating training",1
+42472447,18096.72241,no report,0
+41999686,1990.734029,no report,0
+41823068,22015.45989,no report,0
+41600519,,grads,0
+41596619,,grads,0
+34673164,5.02680707,"Batch 4 layer 4: Error in forward, terminating training",1
+34311586,0.456478834,"Batch 0 layer 2: Error in delta Weights, terminating training",1
+33969059,0.635320187,"Batch 0 layer 4: Error in delta Weights, terminating training",1
+31880720,0.85492754,"Batch 0 layer 6: Error in delta Weights, terminating training",0
+31627380,,crash,0
