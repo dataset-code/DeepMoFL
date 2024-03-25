@@ -1,0 +1,241 @@
+title,,tags,score,creationDate
+"Float16 mixed precision being slower than regular float32, keras, tensorflow 2.0",https://stackoverflow.com/questions/77717432,<python><tensorflow><keras><automatic-mixed-precision>,0,2023/12/26 13:08
+"Why is pytorch loss unstabile when reaching minimum, while keras loss keeps stable?",https://stackoverflow.com/questions/77672172,<machine-learning><keras><pytorch>,1,2023/12/16 19:12
+Extracting an item from a TensorFlow InputLayer,https://stackoverflow.com/questions/77616720,<python><tensorflow><keras>,0,2023/12/6 22:39
+Manually perform predictions using the model weights and biases (Keras),https://stackoverflow.com/questions/77576284,<python><tensorflow><keras><matrix><neural-network>,0,2023/11/30 6:17
+Plot the SHAP values for LSTM model in Python,https://stackoverflow.com/questions/77536125,<python><numpy><machine-learning><keras><shap>,0,2023/11/23 10:27
+"Custom metric function for TensorFlow doesn't work correctly, it's always outputs zero",https://stackoverflow.com/questions/77524363,<python><tensorflow><keras>,0,2023/11/21 16:18
+Advanced Machine Learning in Python: Handling Class Imbalance in Multi-class Classification with Custom Loss Function,https://stackoverflow.com/questions/77462336,<python><tensorflow><machine-learning><keras><loss-function>,0,2023/11/10 19:09
+Low recall and f1-score for LSTM Text classification,https://stackoverflow.com/questions/77455103,<keras><classification><lstm><recurrent-neural-network><text-classification>,0,2023/11/9 17:08
+Keras mean squared error not working over a 3-dimensional response,https://stackoverflow.com/questions/77411040,<python><tensorflow><keras>,0,2023/11/2 15:47
+Deep Learning with Python (Keras): Reuters Multiclass Classification,https://stackoverflow.com/questions/77338685,<python><keras><deep-learning><pytorch>,1,2023/10/22 4:47
+"keras.layers.Dense not assigning correct names for layers. Instead getting ""module_wrapper_x"" names for each layer",https://stackoverflow.com/questions/77320188,<python><tensorflow><keras>,1,2023/10/18 23:46
+Save keras model and StandartScaller to TensorflowJS,https://stackoverflow.com/questions/77300592,<python><tensorflow><keras><tensorflow.js><tensorflowjs-converter>,0,2023/10/16 8:49
+Discrepancies between the plot and the historical data object values of loss and valid_loss,https://stackoverflow.com/questions/77250357,<tensorflow><keras><time-series>,0,2023/10/7 15:13
+Classification of multi target and multi label using tensorflow and keras,https://stackoverflow.com/questions/77249548,<tensorflow><keras><conv-neural-network><classification><multiclass-classification>,0,2023/10/7 11:24
+model.load_weights() does not load the weights I stored previously using model.save_weights(),https://stackoverflow.com/questions/77222716,<python><tensorflow><machine-learning><keras>,0,2023/10/3 13:30
+"Use ""keras code"" (Tensorflow) and the result is ""loss: nan""",https://stackoverflow.com/questions/77177955,<python><pandas><numpy><tensorflow><keras>,0,2023/9/26 7:45
+Why does the AUROC of the validation set differ between training and subsequent evaluation?,https://stackoverflow.com/questions/77155538,<python><tensorflow><machine-learning><keras>,2,2023/9/22 7:15
+Fitting an RNN model using a tensorflow dataset,https://stackoverflow.com/questions/77146428,<python><tensorflow><keras><recurrent-neural-network>,1,2023/9/20 23:37
+No module named 'keras.wrappers',https://stackoverflow.com/questions/77104125,<python><tensorflow><keras><lstm>,4,2023/9/14 10:42
+Debugging autoencoder training (loss is low but reconstructed image is all black),https://stackoverflow.com/questions/77006924,<python><tensorflow><keras><deep-learning><autoencoder>,0,2023/8/30 9:57
+Why is PyTorch significantly slower than Tensorflow? Both are running CUDA,https://stackoverflow.com/questions/76859865,<tensorflow><keras><pytorch><tensorflow2.0>,0,2023/8/8 13:05
+Loss increasing to extremely high numbers during training,https://stackoverflow.com/questions/76825089,<python><tensorflow><machine-learning><keras>,3,2023/8/3 5:28
+Multi-class classification Confusion Matrix as Metric in Keras Neural Network,https://stackoverflow.com/questions/76806850,<python><machine-learning><keras><neural-network><multiclass-classification>,0,2023/7/31 20:12
+Assign weights from keras to torch model,https://stackoverflow.com/questions/76803096,<keras><deep-learning><pytorch>,0,2023/7/31 11:17
+Translation CNN from keras code to pytorch,https://stackoverflow.com/questions/76720018,<python><python-3.x><keras><deep-learning><conv-neural-network>,0,2023/7/19 9:51
+TensorFlow: logits and labels must have the same first dimension while using loss='sparse_categorical_crossentropy',https://stackoverflow.com/questions/76713505,<python><pandas><tensorflow><keras>,0,2023/7/18 13:52
+val_loss is stuck to 0 while training my keras.Model on cifar10 dataset,https://stackoverflow.com/questions/76600274,<python><tensorflow><keras><tensorflow2.0>,0,2023/7/2 18:32
+"LSTM, Dimensions must be equal, Different window sizes",https://stackoverflow.com/questions/76517434,<python><tensorflow><keras><time-series><lstm>,0,2023/6/20 18:13
+Tensorflow model input and output shapes,https://stackoverflow.com/questions/76505760,<tensorflow><machine-learning><keras>,0,2023/6/19 10:28
+Tensorflow text classification sample why need from_logits=True?,https://stackoverflow.com/questions/76453198,<python><tensorflow><keras>,0,2023/6/12 1:35
+Does Google Colab have its own random seed?,https://stackoverflow.com/questions/76431598,<python><tensorflow><keras><neural-network><loss-function>,0,2023/6/8 11:54
+Train a classifier on specific labels of MNIST dataset with TensorFlow,https://stackoverflow.com/questions/76413246,<python><tensorflow><keras><classification><tensorflow-datasets>,0,2023/6/6 9:30
+Error `No gradients provided` for network returning the array of integers,https://stackoverflow.com/questions/76263642,<python><tensorflow><machine-learning><keras><neural-network>,0,2023/5/16 13:31
+Where are the actual predictions stored for Tensorflow keras CategoricalCrossentrophy model?,https://stackoverflow.com/questions/76141059,<python><tensorflow><machine-learning><keras><cross-entropy>,1,2023/4/30 11:42
+"Incompatible shapes when training a custom autoencoder. ([batch_size, img_height, img_widht, 3] vs. [batch_size])",https://stackoverflow.com/questions/76100592,<python><tensorflow><keras><deep-learning><autoencoder>,0,2023/4/25 11:20
+"Input 0 of layer ""sequential_2"" is incompatible with the layer: expected shape=(None, 256, 256, 1), found shape=(None, 65536)",https://stackoverflow.com/questions/76094176,<machine-learning><keras><computer-vision><conv-neural-network>,0,2023/4/24 16:42
+Stream in images to keras from disk to avoid blowing up the memory,https://stackoverflow.com/questions/76047834,<keras><conv-neural-network>,0,2023/4/18 18:11
+Input Shape for Dense Layer in Keras,https://stackoverflow.com/questions/76044061,<python><tensorflow><keras>,0,2023/4/18 11:32
+Tensorflow problem with number represented in fit,https://stackoverflow.com/questions/76038658,<python><tensorflow><machine-learning><keras>,0,2023/4/17 19:30
+Terrible accuracy in keras CNN,https://stackoverflow.com/questions/76030737,<tensorflow><keras><conv-neural-network><tf.keras>,0,2023/4/16 23:05
+I want to concatenate these two models,https://stackoverflow.com/questions/75955317,<machine-learning><keras><deep-learning><conv-neural-network>,0,2023/4/7 3:44
+Loss function for a Siamese neural network,https://stackoverflow.com/questions/75952483,<python><machine-learning><keras><conv-neural-network><siamese-network>,0,2023/4/6 18:04
+Tensorflow Keras RandomFlip is applying the same flip to all images,https://stackoverflow.com/questions/75948480,<tensorflow><keras><deep-learning><conv-neural-network><data-augmentation>,1,2023/4/6 10:27
+Why does LSTM produce NaN losses?,https://stackoverflow.com/questions/75907378,<machine-learning><keras><deep-learning><neural-network>,0,2023/4/1 16:15
+Why doesn't restore_best_weights=True update results?,https://stackoverflow.com/questions/75888196,<python><keras><tf.keras><early-stopping>,1,2023/3/30 12:18
+"WARNING:tensorflow:Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,recall",https://stackoverflow.com/questions/75714794,<python><python-3.x><tensorflow><validation><keras>,0,2023/3/12 16:57
+Tensorflow-GNN model.fit() error while training a skeleton-based GNN (index error),https://stackoverflow.com/questions/75712151,<tensorflow><keras><graph-neural-network><gnn><tensorflow-gnn>,1,2023/3/12 9:22
+LSTM Model overfitting or under-fitting?,https://stackoverflow.com/questions/75676943,<python><machine-learning><keras><lstm>,0,2023/3/8 18:35
+Deep Learning with Python IMDB dataset,https://stackoverflow.com/questions/75630073,<python><tensorflow><machine-learning><keras><deep-learning>,0,2023/3/3 17:17
+I'm having a hard time while conguring a Keras/tensorflow model,https://stackoverflow.com/questions/75598879,<python><tensorflow><keras>,0,2023/3/1 1:44
+I need consistent results for MSE between runs when training a Neural Network,https://stackoverflow.com/questions/75495246,<python><tensorflow><keras><jupyter-notebook><neural-network>,1,2023/2/18 17:47
+Keras SimpleRNNCell appears to fail to distribute learning among all its weights,https://stackoverflow.com/questions/75496612,<python><tensorflow><keras><recurrent-neural-network>,0,2023/2/17 14:39
+Keras LSTM None value output shape,https://stackoverflow.com/questions/75368490,<python><tensorflow><keras><lstm>,1,2023/2/7 2:45
+Convert Tensoflow model to PyTorch model - model isn't learning,https://stackoverflow.com/questions/75362059,<python><tensorflow><keras><deep-learning><pytorch>,1,2023/2/6 13:40
+Keras model predicts different results using the same input,https://stackoverflow.com/questions/75304110,<python><tensorflow><keras><prediction>,3,2023/1/31 23:16
+NN: AttributeError: 'History' object has no attribute 'predict',https://stackoverflow.com/questions/75225720,<python><keras><classification>,0,2023/1/24 18:26
+Using an LSTM to predict a category,https://stackoverflow.com/questions/75205355,<tensorflow><keras><deep-learning><classification><lstm>,0,2023/1/23 2:53
+Error 'img' when applying increment with keras and transformers for image classification,https://stackoverflow.com/questions/75158430,<python><image><keras><classification><huggingface-transformers>,1,2023/1/18 11:18
+Feed image data without class label,https://stackoverflow.com/questions/75136728,<tensorflow><keras><conv-neural-network><generative-adversarial-network>,2,2023/1/16 16:00
+Handling class mismatch in ImageDataGenerator for training and validation sets,https://stackoverflow.com/questions/75103692,<python><tensorflow><keras>,2,2023/1/13 0:32
+Keras Flatten and GRU input_shape difference receiving same inputs,https://stackoverflow.com/questions/75000293,<python><keras><deep-learning>,1,2023/1/4 2:02
+keras always return same values in a Human horses CNN model example,https://stackoverflow.com/questions/74993119,<python><tensorflow><keras>,0,2023/1/3 12:03
+Trying to merge two loaded h5 models into a single one,https://stackoverflow.com/questions/74850248,<tensorflow><machine-learning><keras><neural-network>,1,2022/12/19 12:01
+Simple Tensor Flow Example with keras_tuner,https://stackoverflow.com/questions/74795078,<python><tensorflow><keras><tensor><keras-tuner>,0,2022/12/14 7:55
+"Pass from one file to another a constant variable, without using function parameters",https://stackoverflow.com/questions/74782778,<python><dataframe><keras><scikit-learn>,0,2022/12/13 9:44
+The performance of a model with different output loss configurations in Sequential and Functional APIs differ in Keras,https://stackoverflow.com/questions/74725576,<keras><deep-learning><neural-network><tf.keras><functional-api>,1,2022/12/8 4:38
+Do Architectures built using tf.keras.Models.Sequential run more slowly and accurately than those using Tensorflow's Functional API,https://stackoverflow.com/questions/74697284,<python><tensorflow><keras>,3,2022/12/6 4:25
+Tensorflow.compat.v2.__internal__.tracking' has no attribute 'TrackableSaver' Error,https://stackoverflow.com/questions/74680359,<python><tensorflow><keras><deep-learning><tensorflow.js>,4,2022/12/4 19:52
+Incompatible shapes Mean Squared Error Keras,https://stackoverflow.com/questions/74669249,<python><tensorflow><keras><lstm>,0,2022/12/3 17:56
+RaggedTensor becomes Tensor in loss function,https://stackoverflow.com/questions/74665549,<python><tensorflow><keras><loss>,0,2022/12/3 9:44
+A loaded Keras model with a custom layer has different weights to model which was saved,https://stackoverflow.com/questions/74636441,<python><tensorflow><keras>,1,2022/12/1 2:48
+Understanding stacked LSTM layers,https://stackoverflow.com/questions/74446578,<tensorflow><keras><lstm><recurrent-neural-network>,0,2022/11/15 13:35
+"Input 0 of layer ""dense"" is incompatible with the layer: expected min_ndim=2, found ndim=1. Full shape received: (32,)",https://stackoverflow.com/questions/74434345,<python><tensorflow><machine-learning><keras>,0,2022/11/14 15:48
+Getting different results in training a tensorflow model using keras classes and strings for compilation,https://stackoverflow.com/questions/74415813,<python><tensorflow><keras><deep-learning><conv-neural-network>,0,2022/11/12 19:11
+What is a good way to predict pseudo random numbers with neural networks?,https://stackoverflow.com/questions/74311106,<python><tensorflow><keras><neural-network><artificial-intelligence>,0,2022/11/4 1:07
+Keras get optimal AUC threshold for a model,https://stackoverflow.com/questions/74258564,<python><tensorflow><keras><statistics>,0,2022/10/31 3:48
+Transfer Learning Custom Model after Training,https://stackoverflow.com/questions/74222606,<tensorflow><keras><transfer-learning>,0,2022/10/27 13:10
+All predicted values of LSTM model is almost same,https://stackoverflow.com/questions/74200607,<python><tensorflow><keras><lstm><loss-function>,0,2022/10/25 21:57
+Dropout implementation in tf.Keras,https://stackoverflow.com/questions/74180816,<tensorflow><keras><dropout>,2,2022/10/24 12:01
+Keras - Object detection model - Xception vs. VGG,https://stackoverflow.com/questions/73879020,<tensorflow><machine-learning><keras><deep-learning><imagedatagenerator>,0,2022/9/28 9:19
+"Keras to predict number based on graph, with no accuracy at all",https://stackoverflow.com/questions/73832508,<python><tensorflow><keras>,0,2022/9/23 20:06
+Custom keras callback to determine total training time,https://stackoverflow.com/questions/73802906,<python><keras><callback>,0,2022/9/21 14:53
+using tf.keras.layers.Embedding for categorical variables in regression problem,https://stackoverflow.com/questions/73796471,<python><tensorflow><keras><tf.keras>,1,2022/9/21 6:52
+is it possible to create a layer that perform only Pointwise Convolution part of keras.layers.SeparableConv2D,https://stackoverflow.com/questions/73796337,<python><tensorflow><keras>,1,2022/9/21 6:40
+Predict text binary classification with RNN and didn't get expected output,https://stackoverflow.com/questions/73795106,<python><tensorflow><machine-learning><keras><recurrent-neural-network>,1,2022/9/21 3:39
+Neural network low accuracy,https://stackoverflow.com/questions/73780627,<python><tensorflow><keras>,1,2022/9/20 0:59
+Why is my Tensorflow LSTM Timeseries model returning only one value into the future,https://stackoverflow.com/questions/73765263,<python><tensorflow><keras><artificial-intelligence><lstm>,2,2022/9/18 18:09
+"Is there any way I can count the number of layers in a model, i.e., numerical answer?",https://stackoverflow.com/questions/73749353,<python><loops><tensorflow><keras>,0,2022/9/16 19:08
+"CNN model gives accuracy 0f 63% on Validation Images but when predicted on the same validation set, accuracy is 36%",https://stackoverflow.com/questions/73708667,<python><tensorflow><keras><deep-learning><conv-neural-network>,1,2022/9/13 20:06
+Load XY Coordinates into Basic Tensorflow Linear Regression,https://stackoverflow.com/questions/73675937,<python><numpy><tensorflow><keras>,1,2022/9/10 23:57
+"ValueError: Input 0 of layer sequential_4 is incompatible with the layer: : expected min_ndim=3, found ndim=2. Full shape received: (None, 5000)",https://stackoverflow.com/questions/73627784,<python><tensorflow><machine-learning><keras><deep-learning>,1,2022/9/6 21:11
+Embedding inside the model vs outside the model,https://stackoverflow.com/questions/73624865,<python><tensorflow><keras><neural-network><word-embedding>,1,2022/9/6 16:01
+Is there any difference between the DNN model by keras and the DNN model by pytorch?,https://stackoverflow.com/questions/73616875,<python><keras><deep-learning><pytorch>,1,2022/9/6 4:56
+Using a Knowledge Distillation model to run predictions and check classification metrics,https://stackoverflow.com/questions/73602436,<python><tensorflow><machine-learning><keras>,0,2022/9/4 19:58
+Neural networks - why is loss always 0.0 and accuracy 1.0,https://stackoverflow.com/questions/73567385,<python><tensorflow><machine-learning><keras><neural-network>,0,2022/9/1 9:52
+Loss function to use with image_dataset_from_directory,https://stackoverflow.com/questions/73565014,<python><tensorflow><keras><deep-learning>,1,2022/9/1 6:21
+AttributeError: 'KerasRegressor' object has no attribute '__call__',https://stackoverflow.com/questions/73526233,<python><machine-learning><keras><deep-learning><neural-network>,0,2022/8/29 8:46
+ValueError: Data cardinality is ambiguous: x sizes: 50000 y sizes: 60000 Make sure all arrays contain the same number of samples,https://stackoverflow.com/questions/73518434,<python><tensorflow><keras><mnist>,1,2022/8/28 11:57
+Fire detection model incorrectly identifying all images as having no fire despite displaying 85% accuracy,https://stackoverflow.com/questions/73511425,<tensorflow><keras><deep-learning><conv-neural-network>,0,2022/8/27 13:33
+Can we have a dense layer between Conv layers in 1D CNN Architecture?,https://stackoverflow.com/questions/73510417,<python><keras><conv-neural-network><classification><prediction>,0,2022/8/27 11:01
+Are both the GPU and CUDNN required for Tensorflow,https://stackoverflow.com/questions/73508421,<python><tensorflow><machine-learning><keras><cudnn>,2,2022/8/27 4:43
+loss (I am using mean_absolute_percentage_error) is very high while training for simple regression using tf.keras,https://stackoverflow.com/questions/73424602,<tensorflow><keras>,1,2022/8/20 6:41
+Keras and Tensorflow OS resource requirement,https://stackoverflow.com/questions/73386518,<python><tensorflow><keras><conv-neural-network><artificial-intelligence>,0,2022/8/17 10:02
+Keras validation accuracy is 1 but only predicts only class 0 in binary classification?,https://stackoverflow.com/questions/73382895,<python><tensorflow><validation><keras><binary>,0,2022/8/17 4:33
+Why does my neural network perform different on the same images during training and testing?,https://stackoverflow.com/questions/73373884,<python><tensorflow><keras><neural-network><classification>,0,2022/8/16 12:18
+model.predict() returning random float instead of 3 probabilities,https://stackoverflow.com/questions/73308371,<python><tensorflow><machine-learning><keras>,1,2022/8/10 14:47
+InvalidArgumentError: Graph execution error - Fruit detection,https://stackoverflow.com/questions/73275569,<python><tensorflow><machine-learning><keras>,1,2022/8/8 9:23
+Tensorflow-Keras vector normalise output layer,https://stackoverflow.com/questions/73265033,<python><tensorflow><keras>,0,2022/8/7 5:08
+"what is the difference between Sequential and Model([input],[output]) in TensorFlow?",https://stackoverflow.com/questions/73264482,<python><tensorflow><keras><deep-learning><lstm>,1,2022/8/7 2:19
+Use tf.nn.local_response_normalization in keras layers,https://stackoverflow.com/questions/73264100,<python><tensorflow><keras><conv-neural-network>,1,2022/8/7 0:18
+layer.get_weights() is not equal in the same model layers,https://stackoverflow.com/questions/73220446,<python><numpy><tensorflow><keras>,0,2022/8/3 10:48
+Keras Tensorflow: Why this error on using Tensor Dataset returned by tf.data.experimental.make_csv_dataset() in call to model.fit?,https://stackoverflow.com/questions/73215412,<python><keras><tensorflow2.0><tf.keras>,0,2022/8/3 1:33
+Time Series data to fit for ConvLSTM,https://stackoverflow.com/questions/73209775,<python><tensorflow><keras>,1,2022/8/2 15:03
+Shapes Problem in Tensorflow MultiClass Classification,https://stackoverflow.com/questions/73206902,<python-3.x><keras><tensorflow2.0>,0,2022/8/2 11:38
+sklearn girdsearchCV uses default parameters instead of param grid,https://stackoverflow.com/questions/73204541,<python><tensorflow><machine-learning><keras><scikit-learn>,0,2022/8/2 8:45
+Confusion Matrix for Binary Classification with NN,https://stackoverflow.com/questions/73199505,<machine-learning><keras><neural-network><confusion-matrix>,0,2022/8/1 20:54
+Efficiently implementing chamfer's distance as a loss for tensorflow,https://stackoverflow.com/questions/73155359,<python><tensorflow><keras>,0,2022/7/28 15:27
+Tensorflow does not apply data augmentation properly,https://stackoverflow.com/questions/73144065,<python><database><tensorflow><keras><data-augmentation>,2,2022/7/27 20:08
+Tensorflow Fused conv implementation does not support grouped convolutions,https://stackoverflow.com/questions/73130599,<python><tensorflow><keras><deep-learning>,0,2022/7/26 23:01
+Zero validation loss and validation accuracy at classification problem,https://stackoverflow.com/questions/73126407,<keras><classification>,0,2022/7/26 15:52
+tensorflow can not convert keras model to tensorflow lite,https://stackoverflow.com/questions/73045852,<python><tensorflow><keras>,0,2022/7/20 4:00
+tensorflow bidirectional layer define output shape,https://stackoverflow.com/questions/73039241,<python><tensorflow><keras><forecasting>,0,2022/7/19 14:57
+Turning Python Keras Machine Learning model into repeatable function that can take as input multiple X and y data sets,https://stackoverflow.com/questions/73022079,<python><function><tensorflow><machine-learning><keras>,0,2022/7/18 12:07
+Overfitting on LSTM text classification using Keras,https://stackoverflow.com/questions/72981649,<python><machine-learning><keras><nlp><lstm>,0,2022/7/14 13:51
+Why is a CNN model struggling to classify a colored MNIST?,https://stackoverflow.com/questions/72965428,<python><keras><conv-neural-network><rgb><mnist>,4,2022/7/13 11:22
+Positive class in keras classification report has a precision of zero,https://stackoverflow.com/questions/72937432,<python><validation><keras>,2,2022/7/11 10:55
+Difference between Experimental Preprocessing layers and normal preprocessing layers in Tensorflow,https://stackoverflow.com/questions/72928149,<python><tensorflow><keras><deep-learning>,2,2022/7/10 11:28
+"What does this error mean: ""got logits shape [3,3] and labels shape [33]""?",https://stackoverflow.com/questions/72920933,<python><tensorflow><keras>,1,2022/7/9 11:20
+Is it possible to make the output shape the same as the input shape?,https://stackoverflow.com/questions/72918129,<python><tensorflow><keras>,0,2022/7/9 0:31
+Need to increase the accuracy of my LSTM model,https://stackoverflow.com/questions/72900728,<python><machine-learning><keras><lstm><recurrent-neural-network>,0,2022/7/7 15:42
+Add longitude and latitude as features in tensorflow-recommender model,https://stackoverflow.com/questions/72891147,<python><tensorflow><keras><tf.keras><recommendation-engine>,0,2022/7/7 0:36
+Making a Convolutional Neural Network from a flow diagram,https://stackoverflow.com/questions/72886193,<python><image-processing><keras><conv-neural-network><tf.keras>,0,2022/7/6 15:25
+Can the validation data be used in model.fit for prediction?,https://stackoverflow.com/questions/72870729,<python><machine-learning><keras><lstm><overfitting-underfitting>,0,2022/7/5 13:59
+Understanding Keras subclass method in Tensorflow's deep learning pipeline,https://stackoverflow.com/questions/72862062,<python><tensorflow><keras>,0,2022/7/4 21:12
+Are those Keras and PyTorch snippets equivalent?,https://stackoverflow.com/questions/72803869,<tensorflow><keras><pytorch>,0,2022/6/29 15:15
+"Tensorflow - Received a label value of 99 which is outside the valid range of [0, 10)",https://stackoverflow.com/questions/72802464,<python><tensorflow><machine-learning><keras><artificial-intelligence>,1,2022/6/29 13:44
+Model training with tf.data.Dataset and NumPy arrays yields different results,https://stackoverflow.com/questions/72801906,<python><tensorflow><machine-learning><keras>,2,2022/6/29 13:04
+Custom kernel initialization in Keras,https://stackoverflow.com/questions/72761184,<python><tensorflow><keras>,2,2022/6/26 11:30
+Why are my True/False Values with keras so high?,https://stackoverflow.com/questions/72747707,<python><tensorflow><keras><deep-learning>,1,2022/6/24 17:50
+Keras tuner Bayesian Optmization graph error,https://stackoverflow.com/questions/72744278,<python><keras><conv-neural-network><bayesian><keras-tuner>,0,2022/6/24 12:45
+Sigmoid activation output layer produce Many near-1 value,https://stackoverflow.com/questions/72676542,<python><tensorflow><keras><deep-learning><sigmoid>,0,2022/6/19 11:35
+PyTorch model always returns zeros while Keras model works fine,https://stackoverflow.com/questions/72640932,<python><keras><pytorch>,0,2022/6/16 5:32
+Tensorflow 2.8 - AttributeError: '_UserObject' object has no attribute 'predict',https://stackoverflow.com/questions/72602796,<tensorflow><keras><tensorflow2.0><tf.keras>,1,2022/6/13 12:23
+Different approaches for applying SVM in Keras,https://stackoverflow.com/questions/72567630,<python><tensorflow><machine-learning><keras><svm>,4,2022/6/9 23:27
+LSTM Prediction with Low Accuracy,https://stackoverflow.com/questions/72522411,<keras><deep-learning><lstm><recurrent-neural-network><prediction>,1,2022/6/6 19:07
+Train local model with SVM instead of NN in federated learning,https://stackoverflow.com/questions/72514941,<python><tensorflow><keras><tensorflow-federated>,1,2022/6/6 8:26
+Why is creating a model taking so much space in VRAM?,https://stackoverflow.com/questions/72482086,<python><tensorflow><keras>,0,2022/6/2 20:36
+NaN in tflite model,https://stackoverflow.com/questions/72478531,<python><tensorflow><kotlin><keras>,0,2022/6/2 15:15
+Keras bug when adding preprocessing layer to sequential model,https://stackoverflow.com/questions/72477235,<python><tensorflow><keras><google-colaboratory>,0,2022/6/2 13:40
+Is memory supposed to be this high during model.fit using a generator?,https://stackoverflow.com/questions/72467711,<python><tensorflow><keras>,5,2022/6/1 20:30
+Why does Keras run only 5 epochs out of 25?,https://stackoverflow.com/questions/72466754,<python><tensorflow><keras>,1,2022/6/1 18:50
+Write generator function for LSTM text generation model,https://stackoverflow.com/questions/72396844,<python><tensorflow><keras><deep-learning><nlp>,0,2022/5/26 19:08
+Conv 1d and its input,https://stackoverflow.com/questions/72392774,<python><tensorflow><keras><conv-neural-network><keras-layer>,0,2022/5/26 13:39
+I am trying to fit an CuDNNLSTM model and I am getting an error,https://stackoverflow.com/questions/72384018,<python><tensorflow><keras><jupyter-notebook>,0,2022/5/25 20:50
+keras sequential tensor as argument,https://stackoverflow.com/questions/72380756,<python><tensorflow><keras>,0,2022/5/25 15:51
+tf.GradientTape giving None gradient,https://stackoverflow.com/questions/72372308,<python><tensorflow><machine-learning><keras><gradient>,1,2022/5/25 5:20
+"When i train a network with keras, why are the shape of my predictions not accurate?",https://stackoverflow.com/questions/72337878,<python><numpy><tensorflow><machine-learning><keras>,0,2022/5/22 13:14
+Keras - Is There an way to reduce value gap between categorical_accuracy and val_categorical_accuracy?,https://stackoverflow.com/questions/72312514,<python><tensorflow><keras><deep-learning><lstm>,0,2022/5/20 1:00
+TensorFlow image binary classifier not working efficiently after training,https://stackoverflow.com/questions/72285021,<python><tensorflow><machine-learning><keras><image-classification>,2,2022/5/18 7:42
+Why in Keras embedding layer's matrix is a size of vocab_size + 1?,https://stackoverflow.com/questions/72263400,<python><tensorflow><keras><embedding><word-embedding>,1,2022/5/16 17:37
+Deep learning CNN: low accuracy,https://stackoverflow.com/questions/72227926,<python><keras><deep-learning><conv-neural-network>,0,2022/5/13 10:15
+Breast cancer Dataset high loss function and low accuracy,https://stackoverflow.com/questions/72154060,<python><pandas><tensorflow><keras>,2,2022/5/7 15:43
+Apply a transformation model (data augmentation) in images in Tensorflow,https://stackoverflow.com/questions/72150103,<python><tensorflow><keras><data-augmentation>,1,2022/5/7 6:40
+Accuracy is zero for cifar10 dataset with Keras Sequential Model,https://stackoverflow.com/questions/72102257,<python><tensorflow><machine-learning><keras><image-classification>,1,2022/5/3 16:03
+Keras - Dense and Conv2D values,https://stackoverflow.com/questions/72067697,<python><machine-learning><keras><conv-neural-network>,1,2022/4/30 10:28
+Keras Sequential model gives less accuracy than Functional Model though being same,https://stackoverflow.com/questions/72038257,<python><tensorflow><machine-learning><keras>,1,2022/4/28 5:00
+Training a FF Neural Language Model,https://stackoverflow.com/questions/72032858,<python><tensorflow><keras><neural-network><language-model>,0,2022/4/27 17:15
+NaN for Keras Tuner score for RandomSearch,https://stackoverflow.com/questions/71995118,<python><tensorflow><keras><deep-learning><keras-tuner>,3,2022/4/25 6:08
+Intermediate Output of let' s say Resnet50 from Keras Model,https://stackoverflow.com/questions/71993639,<python><keras><deep-learning><tf.keras>,0,2022/4/25 1:29
+Keras: AttributeError: 'Adam' object has no attribute '_name',https://stackoverflow.com/questions/71894769,<python><tensorflow><keras><reinforcement-learning>,5,2022/4/16 14:34
+Slicing a tensor with Keras,https://stackoverflow.com/questions/71886992,<python><keras><tensor>,0,2022/4/15 17:18
+Keras functional api multioutput,https://stackoverflow.com/questions/71863151,<python><tensorflow><machine-learning><keras><deep-learning>,0,2022/4/13 19:49
+Neural Network train and val accuracy score is 0.00000,https://stackoverflow.com/questions/71861819,<python><keras><neural-network>,0,2022/4/13 17:48
+Keras Confusion Matrix does not look right,https://stackoverflow.com/questions/71833667,<python><tensorflow><keras><deep-learning><confusion-matrix>,1,2022/4/11 20:02
+Keras Model early stops even though min_delta condition is not achieved,https://stackoverflow.com/questions/71817573,<tensorflow><keras>,1,2022/4/10 14:33
+Keras Semantic Similarity model from pre-trained embeddings,https://stackoverflow.com/questions/71802729,<keras><neural-network><word2vec><similarity><word-embedding>,1,2022/4/8 20:15
+"Error: Input to reshape is a tensor with 898880 values, but the requested shape requires a multiple of 33640",https://stackoverflow.com/questions/71797105,<python><tensorflow><keras>,1,2022/4/8 12:34
+Nan Loss when training Deep neural Recommender model using tensorflow,https://stackoverflow.com/questions/71791115,<python><tensorflow><keras><deep-learning><recommendation-engine>,1,2022/4/8 2:46
+Determining the Right Shape for a RNN with a Integer Sequence Target,https://stackoverflow.com/questions/71756571,<python><tensorflow><keras><deep-learning><recurrent-neural-network>,0,2022/4/5 18:15
+got nan in keras tuner but it works when I train it,https://stackoverflow.com/questions/71723063,<tensorflow><keras><deep-learning><neural-network><keras-tuner>,1,2022/4/3 4:41
+"Is this LSTM model underfitting, overfitting or something else?",https://stackoverflow.com/questions/71716325,<python><keras><lstm>,0,2022/4/2 9:25
+Test accuracy not increasing more than 45%,https://stackoverflow.com/questions/71715697,<tensorflow><keras>,0,2022/4/2 7:38
+TypeError: __init__() missing 1 required positional argument: 'units' while coding an neural net,https://stackoverflow.com/questions/71701364,<python><tensorflow><keras><neural-network>,0,2022/4/1 3:13
+LSTM used for regression,https://stackoverflow.com/questions/71674203,<python><tensorflow><keras><lstm><recurrent-neural-network>,2,2022/3/30 8:48
+Extracting Transfer learning output from CNN Keras,https://stackoverflow.com/questions/71624738,<python><keras><conv-neural-network><tf.keras>,1,2022/3/26 1:52
+LSTM model has poor prediction results,https://stackoverflow.com/questions/71596474,<python><tensorflow><keras><lstm>,1,2022/3/24 2:39
+Why does my model not learn? Very high loss,https://stackoverflow.com/questions/71575887,<tensorflow><keras><deep-learning><reinforcement-learning><openai-gym>,1,2022/3/22 16:48
+"Each time I try the predict method this is what I get: Input 0 of layer ""conv2d_16"" is incompatible with the layer",https://stackoverflow.com/questions/71558691,<python><tensorflow><tkinter><keras><tf.keras>,1,2022/3/21 13:47
+"Can not squeeze dim[1], expected a dimension of 1, got 2 [[{{node predict/feature_vector/SpatialSqueeze}}]] [Op:__inference_train_function_253305]",https://stackoverflow.com/questions/71505897,<python><tensorflow><keras><conv-neural-network><transfer-learning>,1,2022/3/17 0:59
+training loss is Nan - but trainning data is all in range without null,https://stackoverflow.com/questions/71494820,<tensorflow><machine-learning><keras><deep-learning><lstm>,2,2022/3/16 9:47
+LSTM Regression issues with masking and intuition (keras),https://stackoverflow.com/questions/71479172,<python><machine-learning><keras><regression><lstm>,2,2022/3/15 8:35
+'KerasClassifier' object has no attribute 'summary' - try to get summary from KerasClassifier built lstm model,https://stackoverflow.com/questions/71466929,<python><tensorflow><keras><lstm>,1,2022/3/14 11:21
+Data Augmentation Layer in Keras Sequential Model,https://stackoverflow.com/questions/71455053,<python><tensorflow><keras>,3,2022/3/13 8:29
+Input 0 of layer dense is incompatible with the layer (Newbie Question),https://stackoverflow.com/questions/71433250,<python><tensorflow><keras>,0,2022/3/11 3:15
+MIDV 500 document localization: fitting problem,https://stackoverflow.com/questions/71424152,<python><tensorflow><keras><image-segmentation>,0,2022/3/10 12:25
+Negative dimension size caused by subtracting 5 from 4,https://stackoverflow.com/questions/71421941,<python><keras><neural-network>,0,2022/3/10 9:42
+Gradients are None while implementing GradCam,https://stackoverflow.com/questions/71399091,<python><tensorflow><keras><tensorflow2.0>,1,2022/3/8 17:21
+"keras, LSTM - predict on inputs of different length?",https://stackoverflow.com/questions/71354254,<keras><deep-learning><neural-network><lstm><recurrent-neural-network>,0,2022/3/4 16:21
+"Input 0 of layer ""conv2d_transpose_4"" is incompatible with the layer: expected ndim=4, found ndim=2. Full shape received: (None, 100)",https://stackoverflow.com/questions/71349249,<tensorflow><machine-learning><keras><deep-learning><generative-adversarial-network>,1,2022/3/4 9:27
+Getting Only Zeros from Model.Predict() When Using Individual Data Points But Getting both 1's and 0's when Using Entire Test Dataset,https://stackoverflow.com/questions/71319941,<python><machine-learning><keras><deep-learning><neural-network>,1,2022/3/2 9:00
+TensorFlow / Keras splitting training and validation data,https://stackoverflow.com/questions/71292466,<python><tensorflow><keras><talos>,0,2022/2/28 8:47
+Simulate streaming learning using Tensorflow's fit() and evaluate() built-in methods,https://stackoverflow.com/questions/71284872,<python><pandas><tensorflow><keras>,1,2022/2/27 12:45
+Import onnx models to tensorflow2.x?,https://stackoverflow.com/questions/71284804,<python><tensorflow><keras><onnx><tf2onnx>,1,2022/2/27 12:36
+Overwrite plot every epoch,https://stackoverflow.com/questions/71277832,<python><python-3.x><tensorflow><matplotlib><keras>,2,2022/2/26 15:19
+Can't get Keras TimeseriesGenerator to train LSTM but can train DNN,https://stackoverflow.com/questions/71272353,<python><tensorflow><keras><deep-learning>,1,2022/2/25 22:29
+Conv2D is incompatible with the layer in a GAN,https://stackoverflow.com/questions/71271074,<tensorflow><machine-learning><keras><deep-learning><generative-adversarial-network>,0,2022/2/25 19:52
+Pytorch lightning print accuracy and loss at the end of each epoch,https://stackoverflow.com/questions/71236391,<python><tensorflow><keras><pytorch><pytorch-lightning>,7,2022/2/23 11:48
+Resuming neural network training after a certain epoch in Keras,https://stackoverflow.com/questions/71231556,<python><tensorflow><machine-learning><keras><neural-network>,1,2022/2/23 4:54
+Normalizing with two neural networks - Tensorflow,https://stackoverflow.com/questions/71230002,<python><tensorflow><keras>,0,2022/2/23 0:31
+tensorflow.keras not utilizing gpu,https://stackoverflow.com/questions/71207850,<python><tensorflow><keras><deep-learning><gpu>,1,2022/2/21 14:18
+Get the internal states of LSTM layer after training and initialize the LSTM layer with saved internal state after prediction or before next training?,https://stackoverflow.com/questions/71195509,<python><tensorflow><machine-learning><keras><lstm>,0,2022/2/20 14:41
+Tensorflow implementation of Pytorch code: adding convolutional layers,https://stackoverflow.com/questions/71185950,<python><tensorflow><keras><pytorch>,1,2022/2/19 14:35
+Tensorflow augmentation layers not working after importing from tf.keras.applications,https://stackoverflow.com/questions/71164259,<python><tensorflow><keras>,6,2022/2/17 19:25
+"When recognizing hand gesture classes, I always get the same class in Keras",https://stackoverflow.com/questions/71163462,<python><tensorflow><keras>,4,2022/2/17 18:21
+Varying the number of neurons per hidden layer for dynamically created layers using GridSearchCV,https://stackoverflow.com/questions/71072617,<python><keras><deep-learning><tf.keras><gridsearchcv>,1,2022/2/10 21:40
+Why does my Resnet56 implementation have less accuracy than in the original paper?,https://stackoverflow.com/questions/71057776,<tensorflow><machine-learning><keras><deep-learning><resnet>,0,2022/2/9 22:48
+Visualisation of intermediate activations in keras: 'History' object has no attribute 'Model',https://stackoverflow.com/questions/71022931,<python><tensorflow><keras>,1,2022/2/7 17:37
+TensorFlow BinaryCrossentropy loss quickly reaches NaN,https://stackoverflow.com/questions/71014038,<tensorflow><keras><deep-learning><nan><loss-function>,2,2022/2/7 5:45
+CNN program has been computing for too long and not giving any output,https://stackoverflow.com/questions/71009636,<python><tensorflow><machine-learning><keras><deep-learning>,0,2022/2/6 17:12
+Why SparseCategoricalCrossentropy is not working with this machine learning model?,https://stackoverflow.com/questions/71008696,<python><python-3.x><tensorflow><keras><conv-neural-network>,2,2022/2/6 15:29
+Custom loss function in keras? Correntropy. Math/implementation issues,https://stackoverflow.com/questions/70991353,<python><numpy><machine-learning><math><keras>,0,2022/2/4 18:42
+Which parameter configuration is Keras using by default for predictions after training a model for multiple epochs,https://stackoverflow.com/questions/70984921,<python><tensorflow><keras><deep-learning>,0,2022/2/4 10:33
+Tensorflow: Custom data augmentation,https://stackoverflow.com/questions/70865929,<python><tensorflow><keras><layer><data-augmentation>,1,2022/1/26 15:26
+tf.keras.callbacks.ModelCheckpoint Callback is always overwritten despite of setting saving after each epoch,https://stackoverflow.com/questions/70828564,<tensorflow><keras><tensorflow2.0>,0,2022/1/24 3:03
+"InvalidArgumentError: logits and labels must have the same first dimension, got logits shape [15488,3] and labels shape [32]",https://stackoverflow.com/questions/70789023,<python><tensorflow><machine-learning><keras><deep-learning>,1,2022/1/20 15:32
+Why is training-set accuracy during fit() different to accuracy calculated right after using predict on same data?,https://stackoverflow.com/questions/70786197,<python><tensorflow><machine-learning><keras><deep-learning>,2,2022/1/20 12:25
+Is there a way to fit a simple neural network to an input data which is a tensor and its ouputs which must be just one number?,https://stackoverflow.com/questions/70779875,<python><tensorflow><keras><neural-network>,1,2022/1/20 1:43
+Using my own Images for TripletSemiHardLoss from Keras addons,https://stackoverflow.com/questions/70705469,<python><tensorflow><keras><conv-neural-network><tensorflow-datasets>,1,2022/1/14 2:42
+Kaggle problem for dogs and cats with kernal using ANN is not working for me,https://stackoverflow.com/questions/70655071,<python><tensorflow><keras>,0,2022/1/10 15:42
+Why GPU is 3.5 times slower than the CPU on Apple M1 Mac?,https://stackoverflow.com/questions/70653251,<macos><keras><deep-learning><tensorflow2.0><apple-m1>,6,2022/1/10 13:33
+Cross-entropy validation losses comes out as a straight line,https://stackoverflow.com/questions/70650848,<python><tensorflow><keras><deep-learning><cross-entropy>,0,2022/1/10 10:22
+Wrong predictions with own mnist-like images,https://stackoverflow.com/questions/70640156,<python><tensorflow><keras><mnist>,1,2022/1/9 9:58
+Why My Deep Learning Model is not changing neither its loss nor its accuracy,https://stackoverflow.com/questions/70639788,<python><tensorflow><machine-learning><keras><deep-learning>,1,2022/1/9 9:03
+Training a neural network to learn polynomial equation,https://stackoverflow.com/questions/70638278,<python><tensorflow><keras><neural-network>,0,2022/1/9 3:47
+PyTorch equivalent for Keras sequential model,https://stackoverflow.com/questions/70636297,<python><tensorflow><machine-learning><keras><pytorch>,1,2022/1/8 20:45
+"What is the difference between batch, batch_size, timesteps & features in Tensorflow?",https://stackoverflow.com/questions/70629560,<tensorflow><keras><lstm>,0,2022/1/8 4:17
+Keras loss: 0.0000e+00 and accuracy stays constant,https://stackoverflow.com/questions/70589997,<python><tensorflow><machine-learning><keras><deep-learning>,1,2022/1/5 8:46
+Long initialization time for model.fit when using tensorflow dataset from generator,https://stackoverflow.com/questions/70557782,<python><pandas><tensorflow><keras>,0,2022/1/2 16:39
+Multi Label Imbalanced dataset classification,https://stackoverflow.com/questions/70554441,<tensorflow><keras><deep-learning><multilabel-classification><imbalanced-data>,3,2022/1/2 7:58
+ValueError: The last dimension of the inputs to a Dense layer should be defined. Found None,https://stackoverflow.com/questions/70549999,<python><tensorflow><keras><nlp><embedding>,2,2022/1/1 15:54
