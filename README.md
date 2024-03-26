@@ -29,7 +29,7 @@ The `Code` folder contains the source code for our method. You can run it from t
 ```
 python run.py -m MODEL -i INPUT -o OUTPUT -c CLASSIFICATION -n SELECTED_NEURON_NUM -t THRESHOLD -s SEED
 ```
-There are five parameters:
+There are seven parameters:
  - `MODEL`: The file path of the model, which needs to be .h5 file
  - `INPUT`: The file path to the test case inputs, which needs to be a .npy file
  - `OUTPUT`: The file path to the test case outputs, which needs to be a .npy file
