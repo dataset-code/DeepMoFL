@@ -5,6 +5,8 @@ from keras.layers import Activation, Dropout, Flatten, Dense
 from keras import backend as K
 import numpy as np
 
+# Download dataset from https://drive.google.com/file/d/1IYx9kCFgCWUJgudc8Uxn59CkExRei431/view
+
 # dimensions of our images.
 img_width = 150
 img_height = 150
