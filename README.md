@@ -11,7 +11,7 @@ First, we revisited the dataset from the previous studies ([Deepmufl](https://gi
 Second, we used the SQL query provided by [Deepmufl](https://github.com/ali-ghanbari/deepmufl-ase-2023) and added some rules to obtain StackOverflow posts from Stack Exchange Data Explorer and then filtered model bugs from them. The query is in `Dataset/query.sql` and the file `Dataset/QueryResults.csv` contains the raw result of running the SQL query as of Januray 2024, which contains 240 eligible StackOverflow posts. We further manually filtered model bugs and collected a total of 10 bugs.
 
 ### Bugs
-The `Dataset/bugs` folder contains 121 model bugs used in our experiment, with each bug corresponding to a Stack Overflow post ID. In the respective folders, there are source codes required to train the buggy model.
+The `Dataset/bugs` folder contains 121 model bugs used in our experiment, with each bug corresponding to a Stack Overflow post ID. In the respective folders, there are source codes required to train the buggy model. The buggy models and the test cases can be obtained by excuting the codes. Due to space limitation, we uploaded the .h5 files of five buggy models (31627380, 31627380, 33969059, 34311586, 34673164) as well as their test cases as reference.
 
 The `dataset.csv` file contains basic information about each bug, including Stack Overflow post ID, whether it is a classification model, the number of error layers, and error type.
 
