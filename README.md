@@ -6,8 +6,7 @@ This repository stores our experimental codes and results.
 
 Our dataset is acquired from two aspects.
 
-First, we revisited the dataset from the previous studies ([Deepmufl](https://github.com/ali-ghanbari/deepmufl-ase-2023), [DeepFD](https://github.com/ArabelaTso/DeepFD), [Defect4ML](https://github.com/mohmehmo/defects4ml)). After removing duplicate bugs, the three datasets contain 160 StackOverflow bugs. 
-We selected 111 model bugs that were reproducible.
+First, we revisited the dataset from the previous studies ([Deepmufl](https://github.com/ali-ghanbari/deepmufl-ase-2023), [DeepFD](https://github.com/ArabelaTso/DeepFD), [Defect4ML](https://github.com/mohmehmo/defects4ml)). After removing duplicate bugs, the three datasets contain 160 StackOverflow bugs. Among them, 49 bugs were excluded because they could not be reproduced or were not model bugs, etc., so we selected the remaining 111 bugs.
 
 Second, we used the SQL query provided by [Deepmufl](https://github.com/ali-ghanbari/deepmufl-ase-2023) and added some rules to obtain StackOverflow posts from Stack Exchange Data Explorer and then filtered model bugs from them. The query is in `Dataset/query.sql` and the file `Dataset/QueryResults.csv` contains the raw result of running the SQL query as of Januray 2024, which contains 240 eligible StackOverflow posts. We further manually filtered model bugs and collected a total of 10 bugs.
 
@@ -18,7 +17,7 @@ The `dataset.csv` file contains basic information about each bug, including Stac
 
 
 ## Source Code
-We've tested our code on windows10 and ubuntu 22.04 with python 3.10.
+We've tested our code on Windows 10 and Ubuntu 22.04 with Python 3.10.
 
 ### Requirments
  - tensorflow == 2.9.0
